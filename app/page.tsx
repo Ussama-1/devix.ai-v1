@@ -26,9 +26,7 @@ export default function Home() {
       <div className="max-w-7xl w-full">
         <FloatingNav navItems={navItems} />
         <Hero />
-        <Grid />
-        {/* <RecentProjects/> */}
-        {/* <iframe src="https://calendly.com/theabdullah224/new-meeting" width="100%" height="600px" ></iframe> */}
+        {/* <Grid /> */}
         <CalendlyBadge />
         <HowItWorksSection />
         <FAQSection />
