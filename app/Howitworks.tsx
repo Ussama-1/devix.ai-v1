@@ -8,21 +8,21 @@ const HowItWorksSection = () => {
       number: "1",
       title: "Voice-Enabled Booking",
       description:
-        "Patients simply call, and Aptiva AI handles scheduling, rescheduling, and cancellations—no staff intervention required.",
+        "Patients simply call, and Devix AI handles scheduling, rescheduling, and cancellations—no staff intervention required.",
       icon: "📞",
     },
     {
       number: "2",
       title: "Seamless Calendar Sync",
       description:
-        "Aptiva integrates with your existing scheduling systems, staff calendars, or EHR platforms so appointments update in real time, preventing overlaps or double-bookings.",
+        "Devix integrates with your existing scheduling systems, staff calendars, or EHR platforms so appointments update in real time, preventing overlaps or double-bookings.",
       icon: "🔄",
     },
     {
       number: "3",
       title: "Automated Reminders & Follow-Ups",
       description:
-        "Aptiva sends timely voice or text reminders, ensuring patients remember appointments and can easily reschedule if needed—dramatically reducing no-shows.",
+        "Devix sends timely voice or text reminders, ensuring patients remember appointments and can easily reschedule if needed—dramatically reducing no-shows.",
       icon: "⏰",
     },
     {

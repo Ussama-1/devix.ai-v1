@@ -11,19 +11,19 @@ const FAQSection = () => {
   const faqs = [
     {
       question: "Can patients book appointments 24/7?",
-      answer: "Absolutely. Aptiva's self-service portal allows patients to schedule, reschedule, or cancel anytime—freeing up your staff and improving patient satisfaction."
+      answer: "Absolutely. Devix's self-service portal allows patients to schedule, reschedule, or cancel anytime—freeing up your staff and improving patient satisfaction."
     },
     {
       question: "Do I need technical expertise to set it up?",
       answer: "Not at all. Our team handles the configuration and provides step-by-step training. You'll have a fully operational system without heavy IT involvement."
     },
     {
-      question: "How does Aptiva reduce no-shows?",
-      answer: "Aptiva automatically sends timely reminders via text, email, or phone. Patients can also self-manage bookings, making it easier to keep or adjust appointments."
+      question: "How does Devix reduce no-shows?",
+      answer: "Devix automatically sends timely reminders via text, email, or phone. Patients can also self-manage bookings, making it easier to keep or adjust appointments."
     },
     {
       question: "What if I have multiple locations or providers?",
-      answer: "Aptiva is built to scale. You can easily add new locations, providers, or departments, and the system adjusts to accommodate growing patient volumes."
+      answer: "Devix is built to scale. You can easily add new locations, providers, or departments, and the system adjusts to accommodate growing patient volumes."
     },
     {
       question: "How much does it cost?",
